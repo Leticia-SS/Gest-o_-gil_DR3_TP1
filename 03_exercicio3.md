@@ -2,7 +2,7 @@
 
 > **Bem-vindo à squad do RotaViva - o que cada papel faz**
 >
-> O Scrum Team do RotaViva é um time único, pequeno e autogerenciado, formado por três papéis: Product Owner, Scrum Master e Developers. Ninguém manda em ninguém de fora para dentro: o time decide junto como fazer o trabalho. Abaixo, o que cada papel faz — e o que ele **não** faz.
+> O Scrum Team do RotaViva é um time único, pequeno e autogerenciado, formado por três papéis: Product Owner, Scrum Master e Developers. Ninguém manda em ninguém de fora para dentro: o time decide junto como fazer o trabalho. Abaixo, o que cada papel faz - e o que ele **não** faz.
 >
 > **Product Owner (PO)** - É o dono do valor do produto. Mantém e prioriza o Product Backlog, define a meta de cada Sprint junto com o time e é a voz do cliente dentro da squad. Decide **o que** será feito e em **que ordem**, sempre olhando o retorno para o negócio. **O que ele NÃO faz:** não é um cliente externo que fica de fora esperando entrega; ele faz parte do time e participa das cerimônias. Também não manda na forma técnica de implementar (não escolhe biblioteca nem diz como codar).
 >
