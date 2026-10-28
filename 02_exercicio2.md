@@ -1,4 +1,4 @@
-# Exercício 2 — Scrum x Métodos Preditivos no RotaViva
+# Exercício 2: Scrum x Métodos Preditivos no RotaViva
 
 ## Comparação quanto a mudanças de requisito
 
