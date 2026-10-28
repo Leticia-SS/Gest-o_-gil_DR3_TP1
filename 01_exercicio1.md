@@ -1,0 +1,13 @@
+# Exercício 1: Pilares do Empirismo no RotaViva
+
+## Pilares do empirismo e por que cada um é necessário
+
+Os três pilares do empirismo no Scrum são transparência, inspeção e adaptação (Guia Scrum 2020, seção "Os Pilares do Empirismo"). No RotaViva, a transparência é necessária porque, com requisitos ainda incertos (ex.: regras de otimização de rota que variam por transportadora), a squad só consegue decidir bem se o Product Backlog, o Sprint Backlog e o Increment estiverem visíveis e com significado compartilhado, sem isso, o PO acha que entregou uma coisa e o cliente entende outra. A inspeção é necessária porque, como o roadmap muda, é preciso olhar frequentemente os artefatos e o progresso rumo à meta para detectar desvios cedo (não no fim do mês, como no cronograma fechado). A adaptação é necessária porque, detectado o desvio, a squad precisa ajustar o próximo passo sem esperar uma nova rodada de aprovação formal, é isso que permite absorver requisitos que mudam sem travar a entrega. Sem os três juntos, o empirismo não funciona: transparência sem inspeção é inútil, inspeção sem adaptação gera só relatório, e adaptação sem transparência vira achismo.
+
+## Exemplo concreto ao longo de um mês
+
+No início da Sprint, a squad do RotaViva deixa visível no board (transparência) que a meta é "permitir que o gestor da transportadora simule uma rota com janela de entrega e veja o custo estimado". Na Daily do meio da Sprint, ao inspecionar o Increment parcial, os Developers percebem que a API de cálculo de custo não retorna tempo de rota por trecho, desvio em relação à meta. Na Sprint Review, com o cliente piloto presente, a squad inspeciona o Increment e descobre que a janela de entrega precisa considerar feriados regionais, requisito que não estava claro. Na Retrospectiva, a squad adapta o processo (ex.: incluir checagem de dados externos no refinamento) e o PO adapta o Product Backlog para a próxima Sprint, repriorizando o requisito de feriados. Assim, transparência, inspeção e adaptação aparecem na prática dentro do mês.
+
+## Parágrafo para a liderança
+
+Diferente do cronograma fechado que o RotaViva usava, em que a mudança de requisito era tratada como exceção e exigia renegociar escopo, prazo e custo (o que gerava atrasos e retrabalho), o Scrum trata a mudança como parte normal do ciclo: primeiro, porque a inspeção ocorre a cada Sprint (duas semanas) e não no fim do mês, permitindo detectar cedo que um requisito mudou; segundo, porque a adaptação é feita no Product Backlog e na meta da Sprint seguinte, sem precisar reabrir o plano inteiro. Na prática, o cronograma fechado congelava requisitos e culpava o cliente pela mudança; o Scrum aceita a mudança e a absorve no próximo ciclo, mantendo a entrega de valor contínua.
